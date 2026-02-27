@@ -33,3 +33,11 @@ p {
     font-size: 16px;
     color: rgb(58, 0, 167);
 }
+
+a {
+    text-decoration: none;
+}
+
+a::after {
+    color: rgb(58, 0, 167);
+}
